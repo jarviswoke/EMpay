@@ -120,12 +120,4 @@ This project is being built to learn:
 * Software engineering practices
 
 ---
-
-## Future Scope
-
-* Email notifications
-* Audit logs
-* AI analytics
-* Mobile application
-* Cloud deployment
-* Biometric attendance integration
+ 
